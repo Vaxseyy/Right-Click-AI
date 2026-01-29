@@ -35,7 +35,7 @@ A lightweight browser extension that adds a **powerful AI menu to your right‑c
 
 🔗 Get a free API key from **Google AI Studio**:
 [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-<img width="1863" height="213" alt="{FEA11AB0-7889-49D3-BB64-AF14A3854382}" src="https://github.com/user-attachments/assets/3afe8803-9f2f-49da-9396-c784253a154e" />
+<img width="1866" height="585" alt="{218D4847-3710-4F84-8630-8B0D16EC8DAE}" src="https://github.com/user-attachments/assets/7db0462e-9027-4956-80ef-df128f5fb071" />
 
 ⚠️ **Important**
 
@@ -64,7 +64,7 @@ This extension is loaded manually in Chromium‑based browsers.
 3. Click **Load unpacked**.
 4. Select the project folder (e.g. `Right-Click-AI/`).
 5. The extension will appear as **Right Click AI**.
-<img width="816" height="422" alt="{1A20092B-F829-4583-BBFE-417B06BD247E}" src="https://github.com/user-attachments/assets/79b0a872-b11c-4c5c-ac54-f8db33700fd2" />
+<img width="822" height="420" alt="{B267DBCB-D7EC-4A03-9D16-296BC2AF1455}" src="https://github.com/user-attachments/assets/f1059546-2521-49fb-8057-f21c2918260d" />
 
 ---
 
@@ -89,7 +89,7 @@ You’ll see options like:
 * Generate Notes
 * Create Flashcards
 * Generate Quiz
-<img width="214" height="497" alt="{1CB40E31-F06D-49B7-A17D-CA36B8715DF1}" src="https://github.com/user-attachments/assets/39c54727-a892-4f01-a5de-56bd6c4c0e6d" />
+<img width="215" height="494" alt="{1A1D57AD-1CAE-4B0B-99C5-472AEFDD74A7}" src="https://github.com/user-attachments/assets/f5372151-c6cc-43d1-a952-ec4bb599296e" />
 
 ### If no text is selected 🌐
 
